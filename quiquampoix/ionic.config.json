@@ -1,0 +1,7 @@
+{
+  "name": "quiquampoix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
